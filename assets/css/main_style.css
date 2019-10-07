@@ -1,5 +1,6 @@
 body {
   background: url(../background2.png);
+  color:black;
 }
 
 
@@ -21,8 +22,8 @@ body {
 .navbar {
   margin-right: 0px;
   margin-left: 0px;
-  padding: 25px;
-  background:goldenrod;
+  padding: 5px;
+  background:white;
 }
 
 
@@ -35,28 +36,31 @@ body {
 }
 h1 {
   font-size: 35px;
+  color:blue;
 }
 h2 {
   font-size: 20px;
+  color: blue;
 }
 
 
 p{
     font-size: 20px;
+    color:blue;
 }
 
 
-.c-d{color:black;
+.c-d{color:blue;
   font-size: 25px;
 }
 
 .latitude {
-  color:black;
+  color:blue;
   font-family: verdana;
   font-size: 40px;
   font-style: strong;
-  background-color:goldenrod;
-  border: 10px solid goldenrod;
+  background-color:white;
+  border: 2px solid white;
     padding: 15px;
 }
 
