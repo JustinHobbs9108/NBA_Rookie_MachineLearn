@@ -1,0 +1,63 @@
+PLAYER,POS,HEIGHT,WEIGHT (LBS),TEAM
+Zion Williamson,F,"6' 7""",284,Pelicans
+Zach Norvell Jr.,G,6' 4.5'',206.4,Lakers
+Tyler Herro,G,6' 4.5'',192.4,Heat
+Tyler Cook,F,6' 7.25'',245.4,Nuggets
+Ty Jerome,G,6' 4.25'',194.4,Suns
+Tremont Waters,G,5' 9.5'',172.4,Celtics
+Terence Davis,G,6' 3'',192.4,Raptors
+Terance Mann,G-F,6' 4.75'',204.6,Clippers
+Talen Horton-Tucker,G,6' 2.5'',235.4,Lakers
+Tacko Fall,C,7' 5.25'',288.8,Celtics
+Shamorie Ponds,G,5' 11.5'',180,Rockets
+Romeo Langford,G,6' 4.5'',216,Celtics
+RJ Barrett,F,"6' 7""",203,Knicks
+Quinndary Weatherspoon,G,6' 3'',206.6,Spurs
+P.J. Washington,F,6' 6.5'',230.4,Hornets
+O'Shae Brissett,F,6' 7'',203.2,Raptors
+Nicolas Claxton,C,6' 10'',216.6,Nets
+Nickeil Alexander-Walker,G,6' 4.25'',203.8,Pelicans
+Nassir Little,F,6' 4.5'',224.2,Blazers
+Moses Brown,C,7' 1.25'',237.2,Blazers
+Miye Oni,G,6' 4.25'',205.6,Jazz
+Mfiondu Kabengele,F,6' 8.75'',256.2,Clippers
+Marial Shayok,F,6' 4.5'',196.8,76ers
+Luka Samanic,F,6' 9.5'',227.2,Spurs
+Luguentz Dort,G,6' 2.75'',222.2,Thunder
+Kyle Guy,G,6' 0.75'',167.8,Kings
+Ky Bowman,G,6' 1'',181.2,Warriors
+Kevin Porter Jr.,G,6' 4'',212.6,Cavaliers
+Keldon Johnson,G,6' 4.75'',216.4,Spurs
+KZ Okpala,F,6' 7.25'',209.6,Heat
+Jordan Poole,G,6' 3.5'',190.8,Warriors
+Jordan Bone,G,6' 1.5'',179,Pistons
+Jaylen Nowell,G,6' 3.25'',202.4,Timberwolves
+Jaxson Hayes,F,6' 10.25'',218.6,Pelicans
+Jarrett Culver,G,6' 5.25'',194.2,Timberwolves
+Jared Harper,G,5' 9.75'',169.2,Suns
+Jalen McDaniels,F,6' 8.25'',191.6,Hornets
+Jalen Lecque,G,6' 2.5'',185.2,Suns
+Jalen Hoard,F,6' 7.25'',212.6,Blazers
+Ja Morant,G,"6' 3"" ",174,Grizzlies
+Isaiah Roby,F,6' 7.25'',214,Mavericks
+Ignas Brazdeikis,F,6' 5.75'',220.8,Knicks
+Grant Williams,F,6' 5.75'',240.2,Celtics
+Eric Paschall,F,6' 6'',254.4,Warriors
+Dylan Windler,F,6' 6.25'',195.8,Cavaliers
+Dewan Hernandez,C,6' 9'',232.8,Raptors
+De'Andre Hunter,F,"6' 7""",225,Hawks
+Darius Garland,G,"6' 2""",174,Cavaliers
+Darius Bazley,F,6' 7.75'',208.4,Thunder
+Daniel Gafford,F,6' 9.25'',237.6,Bulls
+DaQuan Jeffries,F,6' 4'',215.6,Magic
+Cody Martin,G,6' 4.75'',192.2,Hornets
+Coby White,G,6' 3.5'',191.4,Bulls
+Chuma Okeke,F,"6' 8""",230,Magic
+Carsen Edwards,G,5' 10.75'',199.4,Celtics
+Cameron Reddish,F,6' 6.5'',207.8,Hawks
+Cameron Johnson,G,6' 7'',205.2,Suns
+Bruno Fernando,C,6' 8.75'',237,Hawks
+Brian Bowen II,F,6' 6.25'',200,Pacers
+Brandon Clarke,F,6' 7.25'',207.2,Grizzlies
+Bol Bol,C,7' 0.75'',208,Nuggets
+Admiral Schofield,F,6' 4'',240.6,Wizards
