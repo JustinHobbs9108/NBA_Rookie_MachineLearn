@@ -10,7 +10,7 @@ body {
 
 .box{
   padding: 30px;
-  background: white;
+  background: black;
   margin-top:50px;
   margin-left:5px;
   margin-right:5px;
@@ -23,7 +23,7 @@ body {
   margin-right: 0px;
   margin-left: 0px;
   padding: 5px;
-  background:white;
+  background:black;
 }
 
 
@@ -36,26 +36,26 @@ body {
 }
 h1 {
   font-size: 35px;
-  color:blue;
+  color:orangered;
 }
 h2 {
   font-size: 20px;
-  color: blue;
+  color: orangered;
 }
 
 
 p{
     font-size: 20px;
-    color:black;
+    color:whitesmoke;
 }
 
 
-.c-d{color:blue;
+.c-d{color:orangered;
   font-size: 25px;
 }
 
 .latitude {
-  color:blue;
+  color:orangered;
   font-family: verdana;
   font-size: 30px;
   font-style: strong;
