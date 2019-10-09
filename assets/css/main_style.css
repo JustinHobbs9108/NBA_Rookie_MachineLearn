@@ -9,7 +9,7 @@ body {
 }
 
 .box{
-  padding: 10px;
+  padding: 30px;
   background: white;
   margin-top:50px;
   margin-left:5px;
@@ -29,7 +29,7 @@ body {
 
 .navbar li {
   display: d-block;
-  padding: 10px;
+  padding: 0px;
   margin-right: 0px;
   margin-left: 0px;
   cursor: pointer;
@@ -46,7 +46,7 @@ h2 {
 
 p{
     font-size: 20px;
-    color:blue;
+    color:black;
 }
 
 
@@ -57,7 +57,7 @@ p{
 .latitude {
   color:blue;
   font-family: verdana;
-  font-size: 40px;
+  font-size: 30px;
   font-style: strong;
   background-color:white;
   border: 2px solid white;
@@ -99,4 +99,10 @@ p{
     [class*="col-"] {
         width: 100%;
     }
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
