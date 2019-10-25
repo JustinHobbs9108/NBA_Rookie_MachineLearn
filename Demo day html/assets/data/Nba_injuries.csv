@@ -1,0 +1,494 @@
+Team Name,name,Position,Height (in),Weight (lbs),Strains/Sprains_y_True,Dislocations_y_True,Arm Fractures_y_True,Leg Fractures_y_True
+Atlanta Hawks ,Jaylen Adams ,G,74,190,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Steven Adams ,C,86,265,0.0,0.0,0.0,0.0
+Miami Heat,Bam Adebayo,F-C,82,255,1.0,0.0,0.0,0.0
+Cleveland Cavaliers,Deng Adel,F,79,200,0.0,0.0,0.0,0.0
+San Antonio Spurs,LaMarcus Aldridge,F-C,83,260,0.0,0.0,0.0,0.0
+Chicago Bulls,Rawle Alkins,G,77,225,0.0,0.0,0.0,0.0
+Utah Jazz,Grayson Allen,G,77,198,0.0,0.0,0.0,0.0
+Brooklyn Nets,Jarrett Allen,C,83,237,2.0,0.0,0.0,0.0
+New York Knicks,Kadeem Allen,G,75,200,0.0,0.0,0.0,0.0
+Portland Trailblazers,Al-Farouq Aminu,F,81,220,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Justin Anderson,F-G,78,230,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Kyle Anderson,F,81,230,0.0,0.0,0.0,0.0
+Miami Heat,Ryan  Anderson,F,82,240,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Giannis Antetokounmpo,F,83,242,0.0,0.0,0.0,0.0
+Dallas Mavericks,Kostas Antetokounmpo,F,82,200,0.0,0.0,0.0,0.0
+Toronto Raptors,OG Anunoby,F,80,232,0.0,0.0,0.0,0.0
+Chicago Bulls,Ryan  Arcidiacono,G,75,200,0.0,0.0,0.0,0.0
+Washington Wizards,Trevor Ariza,F,80,215,0.0,0.0,0.0,0.0
+Orlando Magic,DJ Augustin,G,72,183,0.0,0.0,0.0,0.0
+Phoenix Suns,Deandre Ayton,C,85,250,0.0,0.0,0.0,0.0
+Charlotte Hornets,Dwayne Bacon,F-G,79,221,1.0,0.0,0.0,0.0
+Sacramento Kings,Marvin Bagley III,F,83,234,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Lonzo Ball,G,78,190,3.0,0.0,0.0,0.0
+Orlando Magic,Mo Bamba,C,84,221,0.0,0.0,0.0,0.0
+Dallas Mavericks,JJ Barea,G,72,185,0.0,0.0,0.0,0.0
+Sacramento Kings,Harrison Barnes,F,80,225,0.0,0.0,0.0,0.0
+Denver Nuggets,Will Barton,G,78,190,5.0,0.0,0.0,0.0
+Minnesota Timberwolves,Keita Bates-Diop,F,81,229,0.0,0.0,0.0,0.0
+Charlotte Hornets,Nicolas Batum,F-G,80,200,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Jerryd Bayless,G,75,200,0.0,0.0,0.0,0.0
+Boston Celtics,Aron Baynes,F-C,82,260,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Kent Bazemore,G,77,201,0.0,0.0,0.0,0.0
+Washington Wizards,Bradley Beal,G,77,207,0.0,0.0,0.0,0.0
+Denver Nuggets,Malik Beasley,G,77,195,0.0,0.0,0.0,0.0
+San Antonio Spurs,Marco Belinelli,F-G,77,210,0.0,0.0,0.0,0.0
+Golden State Warriors,Jordan Bell,F,81,224,0.0,0.0,0.0,0.0
+Atlanta Hawks ,DeAndre' Bembry,F,78,210,7.0,0.0,0.0,0.0
+Phoenix Suns,Dragan Bender,F,85,225,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Dairis Bertens,G,76,200,0.0,0.0,0.0,0.0
+San Antonio Spurs,Davis Bertens,F,82,225,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Patrick Beverly,G,73,185,0.0,0.0,0.0,0.0
+Orlando Magic,Khem Birch,C,81,233,0.0,0.0,0.0,0.0
+Charlotte Hornets,Bismack Biyombo,C,81,255,0.0,0.0,0.0,0.0
+Sacramento Kings,Nemanja Bjelica,F,82,234,0.0,0.0,0.0,0.0
+Chicago Bulls,Antonio Blakeney,G,76,192,0.0,0.0,1.0,1.0
+Milwaukee Bucks,Eric Bledsoe,G,73,205,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,Jaron Blossomgame,F,80,220,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Trevon Bluiett,F-G,78,198,0.0,0.0,0.0,0.0
+Sacramento Kings,Bogdan Bogdanovic,G,78,205,0.0,0.0,0.0,0.0
+Indiana Pacers,Bojan Bogdanovic,F,80,216,0.0,0.0,0.0,0.0
+Golden State Warriors,Andrew Bogut,C,84,260,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Jonah Bolden,F,82,220,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Isaac Bonga,G,80,180,0.0,0.0,0.0,0.0
+Phoenix Suns,Devin Booker,G,78,210,0.0,0.0,0.0,0.0
+Toronto Raptors,Chris Boucher,F,82,200,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Avery Bradley,G,74,180,0.0,0.0,0.0,0.0
+Utah Jazz,Tony Bradley,C,82,248,0.0,0.0,0.0,0.0
+Sacramento Kings,Corey Brewer,F-G,81,186,0.0,0.0,0.0,0.0
+Phoenix Suns,Mikal Bridges,F,79,210,0.0,0.0,0.0,0.0
+Charlotte Hornets,Miles Bridges,F,79,225,0.0,0.0,0.0,0.0
+Dallas Mavericks,Ryan  Broekhoff,F-G,79,215,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Malcolm Brogdon,G,77,229,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Dillon Brooks,F-G,78,220,0.0,0.0,0.0,0.0
+Washington Wizards,Troy Brown Jr.,F,79,215,0.0,0.0,0.0,0.0
+Detroit Pistons,Bruce Brown,G,77,202,0.0,0.0,0.0,0.0
+Boston Celtics,Jaylen Brown,G,79,220,5.0,0.0,0.0,0.0
+Milwaukee Bucks,Sterling Brown,G,78,232,0.0,0.0,0.0,0.0
+Dallas Mavericks,Jalen Brunson,G,75,190,0.0,0.0,0.0,0.0
+Washington Wizards,Thomas Bryant,C,83,248,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Reggie Bullock,F-G,79,205,11.0,0.0,0.0,0.0
+Dallas Mavericks,Trey Burke,G,73,175,0.0,0.0,6.0,0.0
+Sacramento Kings,Alec Burks,G,78,214,9.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Deonte Burton,G,77,240,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Jimmy Butler,F-G,80,232,13.0,0.0,0.0,0.0
+Memphis Grizzlies,Bruno Caboclo,F,81,218,0.0,0.0,0.0,0.0
+Detroit Pistons,Jose Calderon,G,75,200,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Kentavious Caldwell-Pope,G,77,205,4.0,0.0,0.0,0.0
+Houston Rockets,Clint Capela,C,82,240,0.0,0.0,0.0,0.0
+Brooklyn Nets,DeMarre Carroll,F,80,215,25.0,0.0,0.0,0.0
+Memphis Grizzlies,Jevon Carter,G,74,196,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Vince  Carter,F-G,78,220,0.0,0.0,0.0,0.0
+Chicago Bulls,Wendell Carter Jr.,C,82,255,0.0,0.0,0.0,0.0
+Orlando Magic,Michael Carter-Williams,G,78,190,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Alex Caruso,G,77,186,0.0,0.0,0.0,0.0
+Sacramento Kings,Willie Cauley-Stein,C,84,240,0.0,6.0,0.0,0.0
+Orlando Magic,Troy Caupain,G,76,210,0.0,0.0,0.0,0.0
+Utah Jazz,Tyler Cavanaugh,F,81,238,1.0,0.0,0.0,0.0
+Los Angeles Lakers,Tyson Chandler,C,85,240,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Wilson Chandler,F,81,225,0.0,0.0,0.0,0.0
+Charlotte Hornets,Joe Chealey,G,75,190,0.0,0.0,0.0,0.0
+Houston Rockets,Chris Chiozza,G,72,175,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,Marquese Chriss,F,82,240,1.0,0.0,0.0,0.0
+Houston Rockets,Gary Clark,F,80,225,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Ian Clark,G,75,175,1.0,0.0,0.0,0.0
+Cleveland Cavaliers,Jordan Clarkson,G,77,194,2.0,0.0,0.0,0.0
+Atlanta Hawks ,John Collins,F-C,82,235,0.0,0.0,0.0,0.0
+Portland Trailblazers,Zach Collins,F-C,83,235,0.0,0.0,0.0,0.0
+Indiana Pacers,Darren Collison,G,72,175,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Bonzie Colson,F,78,225,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Mike Conley,G,73,175,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Pat  Connaughton,G,76,209,0.0,0.0,0.0,0.0
+Golden State Warriors,Quinn Cook,G,74,19,0.0,0.0,0.0,0.0
+Golden State Warriors,Demarcus Cousins,F-C,83,270,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Robert Covington,F,81,225,0.0,0.0,0.0,0.0
+Brooklyn Nets,Allen Crabbe,F,78,212,5.0,0.0,0.0,0.0
+Denver Nuggets,Torrey Craig,F,77,215,0.0,0.0,0.0,0.0
+Phoenix Suns,Jamal Crawford,G,75,185,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Mitchell Creek,F-G,76,225,0.0,0.0,0.0,0.0
+Utah Jazz,Jae Crowder,F,76,235,0.0,0.0,0.0,0.0
+San Antonio Spurs,Dante Cunningham,F,78,230,0.0,0.0,0.0,0.0
+Portland Trailblazers,Seth Curry,G,72,185,6.0,0.0,0.0,0.0
+Golden State Warriors,Stephen Curry,G,75,190,30.0,0.0,0.0,0.0
+Phoenix Suns,Troy Daniels,G,76,205,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Anthony Davis,F-C,82,253,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Deyonta Davis,F-C,83,237,0.0,0.0,0.0,0.0
+Brooklyn Nets,Ed Davis,C,82,225,0.0,0.0,0.0,0.0
+San Antonio Spurs,Demar Derozan,G,79,220,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Dewayne Dedmon,C,84,245,5.0,0.0,0.0,0.0
+Washington Wizards,Sam Dekker,F,81,230,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Angel Delgado,C,82,245,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,Matthew Dellavadova,G,76,200,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Luol Deng,F,81,237,0.0,0.0,0.0,0.0
+Golden State Warriors,Marcus Derrickson,F,78,249,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Donte DiVincenzo,G,76,203,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Chieck Diallo,F,81,220,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Hamidou Diallo,G,77,198,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Gorgui Dieng,F,83,252,0.0,0.0,0.0,0.0
+Brooklyn Nets,Spencer Dinwiddie,G,78,210,3.0,0.0,0.0,0.0
+Dallas Mavericks,Luka Doncic,F-G,79,218,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Tyler Dorsey,G,77,183,0.0,0.0,0.0,0.0
+New York Knicks,Damyean Dotson,G,78,210,1.0,0.0,0.0,0.0
+Boston Celtics,PJ Dozier,F-G,78,205,0.0,0.0,0.0,0.0
+Miami Heat,Goran Dragic,G,75,190,0.0,0.0,0.0,0.0
+Detroit Pistons,Andre  Drummond,C,83,279,0.0,0.0,0.0,0.0
+Brooklyn Nets,Jared Dudley,F,79,237,0.0,0.0,0.0,0.0
+Chicago Bulls,Kris Dunn,G,76,205,0.0,0.0,0.0,0.0
+Golden State Warriors,Kevin Durant,F,81,240,0.0,0.0,0.0,0.0
+Houston Rockets,Trevon Duval,G,74,189,0.0,0.0,0.0,0.0
+Houston Rockets,Vincent Edwards,F,80,225,0.0,0.0,0.0,0.0
+New York Knicks,Henry Ellenson,F,82,245,1.0,0.0,0.0,0.0
+Detroit Pistons,Wayne Ellington,G,77,200,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Joel Embiid,C,84,250,0.0,0.0,0.0,0.0
+Philidelphia 76ers,James Ennis III,F,79,210,0.0,0.0,0.0,0.0
+San Antonio Spurs,Drew Eubanks,F,82,245,0.0,0.0,0.0,0.0
+Golden State Warriors,Jacob Evans,G,78,210,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Jawun Evans,G,72,190,0.0,0.0,0.0,0.0
+Utah Jazz,Dante Exum,G,78,190,0.0,0.0,0.0,0.0
+Houston Rockets,Kenneth Faried,F-C,80,220,16.0,0.0,0.0,0.0
+Utah Jazz,Derrick Favors,F,82,265,0.0,0.0,0.0,0.0
+Chicago Bulls,Cristiano Felicio,F-C,82,265,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Raymond Felton,G,73,205,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Terrance Ferguson,G,79,190,0.0,0.0,0.0,0.0
+Sacramento Kings,Yogi Ferrell,G,72,180,0.0,0.0,0.0,0.0
+Dallas Mavericks,Dorian Finney-Smith,F,80,220,0.0,0.0,0.0,0.0
+San Antonio Spurs,Bryn Forbes,G,75,190,0.0,0.0,0.0,0.0
+Orlando Magic,Evan Fournier,F-G,79,205,0.0,0.0,0.0,0.0
+Sacramento Kings,De'Aaron Fox,G,75,175,0.0,0.0,0.0,0.0
+Houston Rockets,Michael Frazier,G,76,200,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Tim Frazier,G,73,170,2.0,0.0,0.0,0.0
+Orlando Magic,Melvin Frazier Jr.,F-G,78,200,0.0,0.0,0.0,0.0
+Phoenix Suns,Jimmer Fredette,G,74,195,0.0,0.0,0.0,0.0
+Orlando Magic,Markelle Fultz,G,76,200,0.0,0.0,0.0,0.0
+Sacramento Kings,Wenyen Gabriel,F,81,205,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Danilo Gallinari,F,82,225,0.0,0.0,0.0,0.0
+Detroit Pistons,Langston Galloway,G,74,200,0.0,0.0,0.0,0.0
+New York Knicks,Billy Garrett,F-G,78,215,0.0,0.0,0.0,0.0
+Toronto Raptors,Marc Gasol,C,85,255,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Pau Gasol,F-C,84,250,0.0,0.0,0.0,0.0
+San Antonio Spurs,Rudy Gay,F,80,230,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Paul George,F,81,220,0.0,0.0,0.0,0.0
+Boston Celtics,Jonathan Gibson,G,74,185,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Taj Gibson,F,81,232,0.0,0.0,0.0,0.0
+Sacramento Kings,Harry Giles III,F-C,82,240,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Shai Gilgeous-Alexander,G,78,181,0.0,0.0,0.0,0.0
+Utah Jazz,Rudy Gobert,C,85,245,0.0,0.0,0.0,0.0
+Denver Nuggets,Brandon Goodwin,G,74,180,0.0,0.0,0.0,0.0
+Orlando Magic,Aaron Gordon,F,81,220,0.0,0.0,0.0,0.0
+Houston Rockets,Eric Gordon,G,76,215,0.0,0.0,0.0,0.0
+Charlotte Hornets,Devonte' Graham,G,74,185,0.0,0.0,0.0,0.0
+Brooklyn Nets,Treveon Graham,F,77,225,3.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Jerami Grant,F,81,220,7.0,0.0,0.0,0.0
+Orlando Magic,Jerian Grant,G,76,205,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Donte Grantham,F,80,215,0.0,0.0,0.0,0.0
+Toronto Raptors,Danny Green,F-G,78,215,0.0,0.0,0.0,0.0
+Golden State Warriors,Draymond Green,F-C,79,230,0.0,0.0,0.0,0.0
+Houston Rockets,Gerald Green,F-G,79,205,0.0,0.0,0.0,0.0
+Los Angeles Clippers,JaMychal Green,F,81,227,0.0,0.0,0.0,0.0
+Washington Wizards,Jeff Green,F,81,235,0.0,0.0,0.0,0.0
+Detroit Pistons,Blake Griffin,F,82,250,0.0,0.0,0.0,0.0
+Dallas Mavericks,Tim Hardaway Jr.,F-G,78,205,0.0,0.0,0.0,0.0
+Houston Rockets,James Harden,G,77,220,16.0,0.0,0.0,0.0
+Portland Trailblazers,Maurice Harkless,F,81,220,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Montrezl Harrell,F,80,240,0.0,0.0,0.0,0.0
+Dallas Mavericks,Devin Harris,G,75,185,0.0,0.0,0.0,0.0
+Denver,Gary Harris,G,76,210,0.0,0.0,0.0,0.0
+Brooklyn Nets,Joe Harris,F-G,78,218,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Tobias Harris,F,81,235,0.0,0.0,0.0,0.0
+Chicago Bulls,Shaquille Harrison,G,76,190,0.0,0.0,0.0,0.0
+Houston Rockets,Isaiah Hartenstein,F-C,84,249,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Josh Hart,G,77,215,0.0,0.0,0.0,0.0
+Miami Heat,Udonis Haslem,F,80,215,0.0,0.0,0.0,0.0
+Boston Celtics,Gordon Hayward,F,80,225,22.0,0.0,0.0,0.0
+Cleveland Cavaliers,John  Henson,F,83,219,0.0,0.0,0.0,0.0
+Denver Nuggets,Juancho Hernangomez,F,80,230,0.0,0.0,0.0,0.0
+Charlotte Hornets,Willy Hernangomez,C,83,240,0.0,0.0,0.0,0.0
+New York Knicks,Mario Hezonja,F,80,225,0.0,0.0,0.0,0.0
+New York Knicks,Isaiah Hicks,F,81,230,0.0,0.0,0.0,0.0
+Sacramento Kings,Buddy Hield,G,76,214,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Haywood Highsmith,F,79,220,0.0,0.0,0.0,0.0
+Milwaukee Bucks,George Hill,G,75,188,38.0,0.0,0.0,0.0
+New Orleans Pelicans,Solomon Hill,F,79,225,0.0,0.0,0.0,0.0
+Indiana Pacers,Aaron Holiday,G,73,185,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Jrue Holiday,G,76,205,0.0,0.0,0.0,0.0
+Chicago Bulls,Justin Holiday,F-G,78,181,0.0,0.0,0.0,0.0
+Brooklyn Nets,Rondae Hollis-Jefferson,F,79,217,0.0,0.0,0.0,0.0
+Phoenix Suns,Richaun Holmes,F-C,82,235,11.0,0.0,0.0,0.0
+Portland Trailblazers,Rodney Hood,G,80,206,0.0,0.0,0.0,0.0
+Boston Celtics,Al Horford,F-C,82,245,0.0,0.0,0.0,0.0
+Houston Rockets ,Danuel House Jr.,F-G,79,220,0.0,0.0,0.0,0.0
+Washington Wizards,Dwight Howard,C,83,265,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Kevin Huerter,G,79,190,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Isaac  Humphries,C,84,260,0.0,0.0,0.0,0.0
+Boston Celtics,RJ Hunter,G,77,185,0.0,0.0,0.0,0.0
+Chicago Bulls,Chandler Hutchison,F,79,197,0.0,0.0,0.0,0.0
+Toronto Raptors,Serge Ibaka,F,82,235,0.0,0.0,0.0,0.0
+Golden State Warriors,Andre Iguodala,F,78,215,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Ersan Ilyasova,F,82,235,0.0,0.0,0.0,0.0
+Utah Jazz,Joe Ingles,F,80,226,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Brandon Ingram,F,81,190,2.0,0.0,0.0,0.0
+Boston Celtics,Kyrie Irving,G,75,193,0.0,0.0,0.0,0.0
+Orlando Magic,Jonathan Isaac,F,82,210,6.0,0.0,0.0,0.0
+Orlando Magic,Wes Iwundu,F,79,195,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Jaren Jackson Jr.,F-C,83,242,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Frank Jackson   ,G,75,205,0.0,0.0,0.0,0.0
+Phoenix Suns,Josh Jackson   ,F,80,200,0.0,0.0,0.0,0.0
+Dallas Mavericks,Justin Jackson   ,F,80,210,0.0,0.0,0.0,0.0
+Detroit Pistons,Reggie Jackson   ,G,75,208,0.0,0.0,0.0,0.0
+Los Angeles Lakers,LeBron James,F,80,250,0.0,0.0,0.0,0.0
+Orlando Magic,Amile  Jefferson,F,81,222,0.0,0.0,0.0,0.0
+New York Knicks,John Jenkins,G,76,215,0.0,0.0,0.0,0.0
+Golden State Warriors,Jonas Jerebko,F,82,231,0.0,0.0,0.0,0.0
+Indiana Pacers,Alize Johnson,F,80,212,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Amir Johnson,F-C,81,240,0.0,0.0,0.0,0.0
+Sacramento Kings,BJ Johnson,F,78,200,0.0,0.0,0.0,0.0
+Miami Heat,James Johnson,F,80,240,16.0,0.0,0.0,0.0
+New Orleans Pelicans,Stanley Johnson,F,79,245,2.0,0.0,0.0,0.0
+Phoenix Suns,Tyler Johnson,G,76,190,0.0,0.0,0.0,0.0
+Washington Wizards,Wesley Johnson,F-G,79,215,0.0,0.0,0.0,0.0
+Denver Nuggets,Nikola Jokic,C,84,250,0.0,0.0,0.0,0.0
+Miami Heat,Derrick Jones Jr.,F-G,79,200,0.0,0.0,0.0,0.0
+Golden State Warriors,Damian Jones  ,C,84,245,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Jemerrio Jones  ,F,77,174,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Tyus Jones  ,G,74,196,0.0,0.0,0.0,0.0
+New York Knicks,Deandre Jordan,C,83,265,0.0,0.0,0.0,0.0
+Indiana Pacers,Cory Joseph,G,75,193,2.0,0.0,0.0,0.0
+Charlotte Hornets,Frank Kaminsky,F-C,84,242,0.0,0.0,0.0,0.0
+Portland Trailblazers,Enes Kanter,C,83,250,0.0,0.0,0.0,0.0
+Detroit Pistons,Luke Kennard,F,77,206,0.0,0.0,0.0,0.0
+Charlotte Hornets,Michael Kidd-Gilchrist,F,79,232,0.0,0.0,0.0,0.0
+Phoenix Suns,George King,F,78,220,0.0,0.0,0.0,0.0
+Dallas Mavericks,Maxi Kleber,F,83,240,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,Brandon Knight,G,75,195,28.0,0.0,0.0,0.0
+New York Knicks,Kevin Knox,F,81,215,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Furkan Korkmaz,F-G,79,190,0.0,0.0,0.0,0.0
+New York Knicks,Luke Kornet,F-C,85,250,0.0,0.0,0.0,0.0
+Utah Jazz,Kyle Korver,F-G,79,212,0.0,0.0,0.0,0.0
+Sacramento Kings,Kostas Koufos,C,84,245,0.0,0.0,0.0,0.0
+Brooklyn Nets,Rodions Kurucs,F,87,210,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Kyle Kuzma,F,81,220,1.0,0.0,0.0,0.0
+Portland Trailblazers,Skal Labissiere,F,83,235,1.0,0.0,0.0,0.0
+Charlotte Hornets,Jeremy Lamb,G,77,185,9.0,0.0,0.0,0.0
+Chicago Bulls,Zach Lavine,G,77,200,0.0,0.0,0.0,0.0
+Portland Trailblazers,Jake Layman,F,81,215,0.0,0.0,0.0,0.0
+Indiana Pacers,TJ Leaf,F,82,225,0.0,0.0,0.0,0.0
+Dallas Mavericks,Courtney Lee,G,83,215,13.0,0.0,0.0,0.0
+Golden State Warriors,Damion Lee,G,78,210,0.0,0.0,0.0,0.0
+Chicago Bulls,Walter Lemon Jr.,G,75,180,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Alex Len,C,85,250,0.0,0.0,0.0,0.0
+Portland Trailblazers,Meyers Leonard,F-C,85,255,9.0,0.0,0.0,0.0
+Detroit Pistons,Jon Leuer,F,82,228,0.0,0.0,0.0,0.0
+Brooklyn Nets,Caris LeVert,G,79,204,0.0,0.0,0.0,0.0
+Portland Trailblazers,Damian Lillard,G,75,195,0.0,0.0,0.0,0.0
+Toronto Raptors,Jeremy Lin,G,75,200,0.0,0.0,0.0,0.0
+Golden State Warriors,Shaun Livingston,G,79,192,0.0,0.0,0.0,0.0
+Golden State Warriors,Kevon Looney,F-C,81,220,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Brook Lopez,C,84,270,0.0,0.0,0.0,0.0
+Chicago Bulls,Robin Lopez,C,84,275,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,Kevin Love,F-C,82,251,78.0,0.0,0.0,0.0
+Toronto Raptors,Kyle Lowry,G,73,196,0.0,0.0,0.0,0.0
+Toronto Raptors,Jordan Lloyd,G,76,210,0.0,0.0,0.0,0.0
+Detroit Pistons,Kalin Lucas,G,73,195,0.0,0.0,0.0,0.0
+Chicago Bulls,Timothe Luwawu-Cabarrot,F-G,78,210,0.0,0.0,0.0,0.0
+Denver Nuggets,Tyler Lydon,F,82,225,0.0,0.0,0.0,0.0
+Denver Nuggets,Trey Lyles,F,82,234,0.0,0.0,0.0,0.0
+Charlotte Hornets,Shelvin Mack,G,75,203,3.0,0.0,0.0,0.0
+Dallas Mavericks,Daryl Macon,G,75,185,0.0,0.0,0.0,0.0
+Charlotte Hornets,JP Macura,G,77,205,0.0,0.0,0.0,0.0
+Washington Wizards,Ian Mahinmi,C,83,262,0.0,0.0,0.0,0.0
+Detroit Pistons,Thon Maker,F,85,221,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Boban Marjanovic,C,87,290,0.0,0.0,0.0,0.0
+Chicago Bulls,Lauri Markkanen,F,84,240,0.0,0.0,0.0,0.0
+Orlando Magic,Jarell Martin,F,82,239,0.0,0.0,0.0,0.0
+Sacramento Kings,Frank Mason,G,71,190,0.0,0.0,0.0,0.0
+Miami Heat,Yante Maten,F,80,240,0.0,0.0,0.0,0.0
+Indiana Pacers,Welsey Matthews,F-G,77,220,0.0,0.0,0.0,0.0
+Toronto Raptors,Patrick McCaw,G,79,185,0.0,0.0,0.0,0.0
+Portland Trailblazers,CJ McCollulm,G,75,190,0.0,0.0,0.0,0.0
+Philidelphia 76ers,T.J. McConnell,G,74,190,3.0,0.0,0.0,0.0
+Indiana Pacers,Doug McDermott,F,80,225,0.0,0.0,0.0,0.0
+Los Angeles Lakers,JaVale McGee,C,84,270,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Rodney McGrudger,F-G,76,200,0.0,0.0,0.0,0.0
+Golden State Warriors,Alfonso McKinnie,F,80,215,0.0,0.0,0.0,0.0
+Washington Wizards,Jordan McRae,G,77,179,0.0,0.0,0.0,0.0
+Toronto Raptors,Jodie Meeks,G,76,210,14.0,0.0,0.0,0.0
+Dallas Mavericks,Salah Mejri,C,86,235,0.0,0.0,0.0,0.0
+Phoenix Suns,De'Anthony Melton,G,76,200,0.0,0.0,0.0,0.0
+San Antonio Spurs,Chimezie Metu,F,82,225,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Khris Middleton,F,80,222,0.0,0.0,0.0,0.0
+Memphis Grizzlies,CJ Miles,F-G,78,220,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Darius Miller,F,80,225,0.0,0.0,0.0,0.0
+Toronto Raptors,Malcolm Miller,F,79,210,0.0,0.0,0.0,0.0
+Denver Nuggets,Paul Millsap,F,80,246,0.0,0.0,0.0,0.0
+San Antonio Spurs,Patty Mills ,G,72,180,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Shake Milton,G,78,207,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Nikola Mirotic,F,82,250,0.0,0.0,0.0,0.0
+Utah Jazz,Donovan Mitchell,G,75,215,0.0,0.0,0.0,0.0
+Utah Jazz,Naz Mitrou-Long,G,76,218,0.0,0.0,0.0,0.0
+Charlotte Hornets,Malik Monk,G,75,200,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Greg Monroe,C,83,265,0.0,0.0,0.0,0.0
+San Antonio Spurs,Ben Moore,F,80,220,0.0,0.0,0.0,0.0
+New Orleans Pelicans,E'Twaun Moore,G,76,191,13.0,0.0,0.0,0.0
+Toronto Raptors,Eric Moreland,F-C,82,238,0.0,0.0,0.0,0.0
+Boston Celtics,Marcus Morris,F,81,235,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Markieff Morris,F,82,245,0.0,0.0,0.0,0.0
+Denver Nuggets,Monte Morris,G,75,175,0.0,0.0,0.0,0.0
+San Antonio Spurs,Donatas Motiejunas,F-C,84,220,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Johnathan Motley,F,82,230,1.0,0.0,0.0,0.0
+Orlando Magic,Timofey Mozgov,C,85,275,0.0,0.0,0.0,0.0
+New York Knicks,Emmanual Mudiay,G,77,200,0.0,0.0,0.0,0.0
+San Antonio Spurs,Dejounte Murray,G,77,170,3.0,0.0,0.0,0.0
+Denver Nuggets,Jamal Murray,G,76,207,0.0,0.0,0.0,0.0
+Brooklyn Nets,Dzanan Musa,F-G,81,208,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Mike Muscala,F-C,83,240,0.0,0.0,0.0,0.0
+Detroit Pistons,Svi Mykhailiuk,G,80,205,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Abdel Nader,F,78,225,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,Larry Nance Jr.,F,81,230,0.0,0.0,0.0,0.0
+Brooklyn Nets,Shabazz Napier,G,73,180,0.0,0.0,0.0,0.0
+Houston Rockets,Nene Hilario,F-C,83,250,0.0,0.0,0.0,0.0
+Utah Jazz,Raul Neto,G,73,179,0.0,0.0,0.0,0.0
+Utah Jazz,Georges Niang,F,80,230,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Joakim Noah,C,83,230,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Nerlens Noel,F-C,83,220,17.0,0.0,0.0,0.0
+New York Knicks,Frank Ntilikina,G,78,200,0.0,0.0,0.0,0.0
+Miami Heat,Kendrick Nunn,G,75,184,0.0,0.0,0.0,0.0
+Portland Trailblazers,Jusuf Nurkic,C,84,275,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,David Nwaba,G,76,219,1.0,0.0,0.0,0.0
+Utah Jazz,Royce O'Neale,F,78,226,0.0,0.0,0.0,0.0
+Indiana Pacers,Kyle O'Quinn,C,82,250,4.0,0.0,0.0,0.0
+Boston Celtics,Semi Ojeleye,F,79,241,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Jahlil Okafor,C,83,275,0.0,0.0,0.0,0.0
+Phoenix Suns,Elie Okobo,G,75,190,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Josh Okogie,G,76,212,0.0,0.0,0.0,0.0
+Indiana Pacers,Victor Oladipo,G,76,210,0.0,0.0,0.0,0.0
+Miami Heat,Kelly Olynyk,F,84,240,16.0,0.0,0.0,0.0
+Cleveland Cavaliers,Cedi Osman,F,80,215,0.0,0.0,0.0,0.0
+Phoenix Suns,Kelly Oubre Jr.,F,79,205,0.0,0.0,0.0,0.0
+Detroit Pistons,Zaza Pachulia,C,83,270,0.0,0.0,0.0,0.0
+Washington Wizards,Jabari Parker,F,80,245,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Chandler Parsons,F,82,230,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Patrick Patterson,F,81,230,0.0,0.0,0.0,0.0
+Houston Rockets,Chris Paul,G,72,175,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Elfrid Payton,G,76,185,0.0,0.0,0.0,0.0
+Washington Wizards,Tarik Phillip,G,75,195,0.0,0.0,0.0,0.0
+Brooklyn Nets,Theo Pinson,F-G,78,218,0.0,0.0,0.0,0.0
+Denver Nuggets,Mason Plumlee,F-C,83,235,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Miles Plumlee,C,83,249,8.0,0.0,0.0,0.0
+San Antonio Spurs,Jakob Poeltl,C,84,230,0.0,0.0,0.0,0.0
+San Antonio Spurs,Quincy Poindexter,F,79,230,0.0,0.0,0.0,0.0
+Denver Nuggets,Michael Porter Jr.,F,82,210,0.0,0.0,0.0,0.0
+Chicago Bulls,Otto Porter Jr.,F,80,198,0.0,0.0,0.0,0.0
+Washington Wizards,Bobby Portis,F,83,250,0.0,0.0,0.0,0.0
+Dallas Mavericks,Kristaps Porzingis,F-C,87,240,0.0,0.0,0.0,0.0
+Dallas Mavericks,Dwight Powell,F-C,83,240,0.0,0.0,0.0,0.0
+Toronto Raptors,Norman Powell,F-G,76,215,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Alex Poythress,F,81,235,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Taurean Prince,F,80,220,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Ivan Rabb,F,82,220,0.0,0.0,0.0,0.0
+Washington Wizards,Chasson Randle,G,74,185,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Julius Randle,F-C,81,250,0.0,0.0,0.0,8.0
+Philidelphia 76ers,JJ Redick,G,76,200,0.0,0.0,0.0,0.0
+Indiana Pacers,Davon Reed,G,77,208,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Cameron Reynolds,G,80,225,0.0,0.0,0.0,0.0
+Miami Heat,Josh Richardson,F-G,78,200,0.0,0.0,0.0,0.0
+Houston Rockets,Austin Rivers,G,76,200,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Andre Roberson,F-G,79,210,6.0,0.0,0.0,0.0
+Detroit Pistons,Glenn Robinson III,F-G,78,222,0.0,0.0,0.0,0.0
+Washington Wizards,Devin Robinson,F,80,200,0.0,0.0,0.0,0.0
+Miami Heat,Duncan Robinson,F,80,210,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Jerome Robinson,G,77,190,0.0,0.0,0.0,0.0
+New York Knicks,Mitchell Robinson,C,85,240,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Rajon Rondo,G,73,186,48.0,0.0,0.0,0.0
+Minnesota Timberwolves,Derrick Rose,G,75,200,44.0,0.0,0.0,0.0
+Orlando Magic,Terrence Ross,F-G,79,206,9.0,0.0,0.0,0.0
+Boston Celtics,Terry Rozier,G,73,190,0.0,0.0,0.0,0.0
+Utah Jazz,Ricky Rubio,G,76,190,0.0,0.0,0.0,0.0
+Brooklyn Nets,D'Angelo Russell,G,77,198,5.0,0.0,0.0,0.0
+Indiana Pacers,Domantas Sabonis,F,83,240,1.0,0.0,0.0,0.0
+Chicago Bulls,Brandon Sampson,G,77,184,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Dario Saric,F,82,223,0.0,0.0,0.0,0.0
+Washington Wizards,Tomas Satoransky,F-G,79,210,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Dennis Schroder,G,73,172,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Mike Scott,F,80,237,0.0,0.0,0.0,0.0
+Utah Jazz,Thabo Sefolosha,F,79,220,0.0,0.0,0.0,0.0
+Chicago Bulls,Wayne Selden,F-G,77,230,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,Collin Sexton,G,74,190,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Landry Shamet,G,77,188,0.0,0.0,0.0,0.0
+Houston Rockets,Iman Shumpert,G,77,215,17.0,0.0,0.0,0.0
+Toronto Raptors,Pascal Siakam,F,81,230,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Ben Simmons,F-G,82,230,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Jonathon Simmons,F,78,195,3.0,0.0,0.0,0.0
+Portland Trailblazers,Anfernee Simons,G,76,185,0.0,0.0,0.0,0.0
+Boston Celtics,Marcus Smart,G,76,220,7.0,0.0,0.0,0.0
+New York Knicks,Dennis Smith Jr.,G,75,195,0.0,0.0,0.0,0.0
+Detroit Pistons,Ish Smith ,G,72,175,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,JR Smith,F-G,78,225,0.0,0.0,0.0,0.0
+Philidelphia 76ers,Zhaire Smith,G,76,199,0.0,0.0,0.0,0.0
+Milwaukee Bucks,Tony Snell,G,79,213,0.0,0.0,0.0,0.0
+Phoenix Suns,Ray Spalding,F,82,215,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Omari Spellman,F,81,245,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,Nik  Stauskas,G,78,205,0.0,0.0,0.0,0.0
+Los Angeles Lakers,Lance Stephenson,G,78,230,13.0,0.0,0.0,0.0
+Indiana Pacers,Edmond Sumner,G,78,176,0.0,0.0,0.0,0.0
+Sacramento Kings,Caleb Swanigan,F,81,250,0.0,0.0,0.0,0.0
+Boston Celtics,Jayson Tatum,F,80,208,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Jeff Teague,G,74,195,10.0,0.0,0.0,0.0
+Los Angeles Clippers,Garrett Temple,F-G,78,195,7.0,0.0,0.0,0.0
+Minnesota Timberwolves,Jared Terrell,G,75,227,0.0,0.0,0.0,0.0
+Boston Celtics,Daniel Theis,F,80,243,0.0,0.0,0.0,0.0
+Denver Nuggets,Isaiah Thomas,G,69,185,0.0,0.0,0.0,0.0
+Detroit Pistons,Khyri Thomas,G,75,210,0.0,0.0,0.0,0.0
+New York Knicks,Lance Thomas,F,80,240,7.0,0.0,0.0,0.0
+Golden State Warriors,Klay Thompson,G,79,215,7.0,0.0,0.0,0.0
+Cleveland Cavaliers,Tristan Thompson,F-C,82,238,3.0,0.0,0.0,0.0
+Los Angeles Clippers,Sindarius Thornwell,G,77,215,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Anthony Tolliver,F,80,250,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Karl-Anthony Towns,C,84,248,0.0,0.0,0.0,0.0
+Portland Trailblazers,Gary Trent Jr.,G,78,205,0.0,0.0,0.0,0.0
+New York Knicks,Allonzo Trier,G,77,200,0.0,0.0,0.0,0.0
+Houston Rockets,PJ Tucker,F,78,245,0.0,0.0,0.0,0.0
+Portland Trailblazers,Evan Turner,F-G,79,220,0.0,0.0,0.0,0.0
+Indiana Pacers,Myles Turner,F-C,83,250,0.0,0.0,0.0,0.0
+Utah Jazz,Ekpe Udoh,F-C,82,245,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Jonas Valanciunas,C,84,265,0.0,0.0,0.0,0.0
+Chicago Bulls,Denzel Valentine,G,78,210,5.0,0.0,0.0,0.0
+Denver Nuggets,Jarred Vanderbilt,F,81,214,0.0,0.0,0.0,0.0
+Toronto Raptors,Fred VanVleet,G,72,195,0.0,0.0,0.0,0.0
+New York Knicks,Noah Vonleh,F,81,250,0.0,0.0,0.0,0.0
+Orlando Magic,Nikola Vucevic,C,84,260,41.0,0.0,0.0,0.0
+Los Angeles Lakers,Moritz Wagner,C,83,245,0.0,0.0,0.0,0.0
+Miami Heat,Dion Waiters,G,76,215,21.0,0.0,0.0,0.0
+San Antonio Spurs,Lonnie Walker IV,G,77,205,0.0,0.0,0.0,0.0
+Charlotte Hornets,Kemba Walker  ,G,73,184,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Tyrone Wallace,G,77,198,0.0,0.0,0.0,0.0
+Washington Wizards,John Wall ,G,76,210,0.0,0.0,0.0,0.0
+Boston Celtics,Brad Wanamaker,G,76,210,0.0,0.0,0.0,0.0
+Phoenix Suns,T.J. Warren,F,80,215,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Julian Washburn,F-G,80,209,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Yuta Watanabe,G,81,205,0.0,0.0,0.0,0.0
+Denver Nuggets,Thomas Welsh,C,84,255,0.0,0.0,0.0,0.0
+Oklahoma City Thunder ,Russell Westbrook,G,75,200,0.0,0.0,0.0,0.0
+San Antonio Spurs,Derrick White,G,76,190,0.0,0.0,0.0,0.0
+Detroit Pistons,Isaiah Whitehead,G,76,213,0.0,0.0,0.0,0.0
+Miami Heat,Hassan Whiteside,C,84,265,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,Andrew Wiggins,F-G,80,194,0.0,0.0,0.0,0.0
+Boston Celtics,Robert Williams III,F-C,82,240,0.0,0.0,0.0,0.0
+Brooklyn Nets,Alan Williams  ,F-C,80,265,0.0,0.0,0.0,0.0
+Minnesota Timberwolves,C.J. Williams,G,77,226,1.0,0.0,0.0,0.0
+Los Angeles Lakers,Johnathan Williams,F,81,228,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Kenrich Williams,F-G,79,210,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Lou Williams,G,73,175,0.0,0.0,0.0,0.0
+Charlotte Hornets,Marvin Williams,F,81,237,0.0,0.0,0.0,0.0
+Sacramento Kings,Troy Williams,F,79,218,3.0,0.0,0.0,0.0
+Milwaukee Bucks,D.J. Wilson,F,82,231,0.0,0.0,0.0,0.0
+Miami Heat,Justice Winslow,F-G,79,225,0.0,0.0,0.0,0.0
+New Orleans Pelicans,Christian Wood,F,82,214,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Delon Wright,G,77,183,0.0,0.0,0.0,0.0
+Boston Celtics,Guerschon Yabusele,F,80,260,0.0,0.0,0.0,0.0
+Indiana Pacers,Thaddeus Young,F,80,221,0.0,0.0,0.0,0.0
+Atlanta Hawks ,Trae Young,G,74,180,0.0,0.0,0.0,0.0
+Charlotte Hornets,Cody Zeller,C,84,240,0.0,0.0,0.0,0.0
+Memphis Grizzlies,Tyler Zeller,C,84,253,0.0,0.0,0.0,0.0
+Cleveland Cavaliers,Ante Zizic,C,83,254,0.0,0.0,0.0,0.0
+Los Angeles Clippers,Ivica Zubac,C,85,240,0.0,0.0,0.0,0.0

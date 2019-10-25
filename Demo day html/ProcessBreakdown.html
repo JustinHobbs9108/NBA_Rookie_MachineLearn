@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> Process Flow</title>
+    <script src="assets/js/app.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://unpkg.com/simple-statistics@5.0.0/dist/simple-statistics.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <!-- Bootstrap core CSS     -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Animation library for notifications   -->
+    <link href="assets/css/animate.min.css" rel="stylesheet"/>
+    <!--     Fonts and icons     -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
+    <link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
+	<link rel="stylesheet" href="assets/css/main_style.css">
+    <script src="{{ url_for('static', filename='assets/js/logic.js') }}"></script>
+    
+    <!--Icon Stuff-->
+    <link rel="icon" 
+    type="image/png" 
+    href="assets/visuals/1F3C0-basketball-512.png">
+</head>
+<body>
+    <div class="container-fluid">
+    	<nav class="navbar navbar-inverse">
+    		<div class="container-fluid">
+            	<div class="navbar-header">
+                	<a class="navbar-brand" href="index.html"><span class="latitude">Home</span></a>
+                    <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls=" navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button> -->
+                </div>
+                <ul class="nav navbar-nav navbar-right">
+	              	<li>
+	                	<div class="dropdown">
+	                		<button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Report Navigation<span class="caret"></span></button> 
+	                		<ul class="dropdown-menu">
+	                 		
+                                  <li><a href="InitialFindings.html">Initial Findings</a></li>
+                                  <li><a href="RookieChecker.html">Rookie Predictions</a></li>
+	                 			<!-- <li><a href="viz 3.html">Viz 3</a></li> -->
+                                <li><a href="ProcessBreakdown.html">Process Flow</a></li>
+                                <li><a href= "Learning_Tree.html">Machine Learning Tree</a></li>
+	                  		</ul>
+	                	</div>
+	              	</li>
+	              	<li>
+	                	<!-- <a class="nav-link" href="./Comparisons.html"><span class="c-d">Poke-stats!</a> -->
+	             	</li>
+                </ul>
+			</div>
+        </nav>
+	</div>        
+	<div class="content">
+        <div class="container-fluid">
+            <div class="row">
+            	<div class="col-md-12">
+            		<div class="box">
+                		<ul>
+                            <li>
+                                <h1>Data Sources</h1>
+                                <p>We found a dataset of every injured NBA player dating between 2010-2018, detailing player name, injury date, and a brief note on type of injury. We found a second dataset with the 2019 veteran player injuries and merged the two to create our training data set and to do our initial findings analyses. For our test data set we found the 2019 rookie class anthropometrics, which we used alongside our training data to predict rookie injuries during the 2019-2020 season.</p>
+                                <hr>
+                            </li>
+                            <li>
+                                <h1>Initial Analysis</h1>
+                                <p>Most of our initial analyses were driven by simple groupby functions, like the one seen below.</p>
+                                <img src="assets/visuals/Position_Manipulation.PNG">
+                                <p>From our basic visualizations, we developed a plausible narrative that players playing in the forward and guard positions were more likely to get injured than others.</p>
+                                <br>
+                                <p>We also floated another likely narrative that the training practices used at certain universities resulted in an increase in injury.</p>
+                                <p>However, our data limited this narrative. It was hard to know if the training regimen a player underwent in college increased his likelyhood of injury or just his chances of getting into the NBA.</p>
+                                <hr>
+                            </li>
+                            <li>
+                                <h1>Machine Learning</h1>
+                                <p>When we revisited our dataset towards the end of the class, we decided to train a model to be able to predict a set of specific injuries based on our data.
+                                We first used historical data on players such as position, weight, height, and team. Our model found a good correlation between BMI but not player position, however our data set was limited by the overall low number of each type of injury.</p>
+                                <br>
+                                <p>When we then presented our model to a new set of players, the 2019 draft picks, we found that most rookies were not predicted to be injured during the 2019-2020 NBA season.</p>
+                                <br>
+                            </li>
+                            
+                        </ul>
+	          		</div>
+	        	</div>
+			</div>
+		</div>
+	</div>
+	<!--   Core JS Files   -->
+	<script src="assets/js/jquery.3.2.1.min.js" type="text/javascript"></script>
+	<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+
+	<!--  Charts Plugin -->
+	<script src="assets/js/chartist.min.js"></script>
+
+ 	<!-- Notifications Plugin    -->
+	<script src="assets/js/bootstrap-notify.js"></script>
+</body>
+</html>
